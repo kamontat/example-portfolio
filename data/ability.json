@@ -1,0 +1,117 @@
+{
+    "language": {
+        "native": "Thai",
+        "others": [{
+            "name": "English",
+            "dialect": "US",
+            "measure": 6
+        }, {
+            "name": "Chinese",
+            "dialect": "Mandarin",
+            "measure": 5
+        }]
+    },
+    "personal": [
+        "Adaptability",
+        "Teamwork and collaboration",
+        "Creativity",
+        "Decision making",
+        "Learning"
+    ],
+    "computers": [{
+            "name": "React",
+            "description": "Frontend framework",
+            "scope": "web",
+            "sub-scope": "frontend",
+            "measure": 3,
+            "lang-name": "javaascript"
+        }, {
+            "name": "Angular",
+            "description": "Frontend framework",
+            "scope": "web",
+            "sub-scope": "frontend",
+            "measure": 3,
+            "lang-name": "typescript"
+        },
+        {
+            "name": "Nodejs",
+            "description": "Backend framework",
+            "scope": "web",
+            "sub-scope": "backend",
+            "measure": 8,
+            "lang-name": "javascript"
+        },
+        {
+            "name": "Ruby-on-rails",
+            "description": "Backend framework",
+            "scope": "web",
+            "sub-scope": "backend",
+            "measure": 2,
+            "lang-name": "ruby"
+        },
+        {
+            "name": "Django",
+            "description": "Backend framework",
+            "scope": "web",
+            "sub-scope": "backend",
+            "measure": 5,
+            "lang-name": "python"
+        },
+        {
+            "name": "iOS cocospod",
+            "description": "iOS package management",
+            "scope": "mobile",
+            "sub-scope": "ios",
+            "measure": 4,
+            "lang-name": "swift"
+        },
+        {
+            "name": "Android gradle",
+            "description": "Android development with old java code",
+            "scope": "mobile",
+            "sub-scope": "android",
+            "measure": 7,
+            "lang-name": "java"
+        },
+        {
+            "name": "Android gradle",
+            "description": "Android development with new kotlin language",
+            "scope": "mobile",
+            "sub-scope": "android",
+            "measure": 5,
+            "lang-name": "kotlin"
+        },
+        {
+            "name": "CircleCi",
+            "description": "Setup and initial",
+            "scope": "infrastructure",
+            "sub-scope": "ci/cd",
+            "measure": 8,
+            "lang-name": null
+        },
+        {
+            "name": "Heroku",
+            "description": "Setup and initial",
+            "scope": "infrastructure",
+            "sub-scope": "server",
+            "measure": 6,
+            "lang-name": null
+        },
+        {
+            "name": "Java GUI",
+            "description": "Desktop application with Java swing",
+            "scope": "application",
+            "sub-scope": null,
+            "measure": 6,
+            "lang-name": "java"
+        },
+        {
+            "name": "Android tester",
+            "description": "Testing in android development",
+            "scope": "mobile",
+            "sub-scope": "android",
+            "measure": 6,
+            "lang-name": "java"
+        }
+    ]
+}

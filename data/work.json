@@ -1,0 +1,143 @@
+{
+    "experiences": [
+        {
+            "start-date": "01/2018",
+            "end-date": "Present",
+            "position": "Backend developer",
+            "employer": "TEDxKasetsartUniversity",
+            "employer-link": "https://github.com/TEDxKasetsartU",
+            "private": false,
+            "ref": "https://github.com/TEDxKasetsartU",
+            "responsibilities": [
+                "Developed GET APIs of talk session, speaker, etc.",
+                "Designed database (NoSQL) that can use at least 5 year later",
+                "Developed Payment APIs, Reservation APIs, etc."
+            ]
+        },
+        {
+            "start-date": "11/2017",
+            "end-date": "Present",
+            "position": "Full-stack developer",
+            "employer": "BASE playhouse (Startup)",
+            "employer-link": "http://www.baseplayhouse.co",
+            "private": true,
+            "responsibilities": [
+                "Builded and Created static website"
+            ]
+        },
+        {
+            "start-date": "08/2017",
+            "end-date": "12/2017",
+            "position": "Development manager",
+            "employer": "Pairhmai Inc.",
+            "employer-link": "https://pairmhai.herokuapp.com",
+            "private": false,
+            "ref": "https://github.com/PairMhai",
+            "responsibilities": [
+                "Managed relationship between project owner and developer",
+                "Planned project by use agile methodology, in the group of 8 person",
+                "Controlled process and tracked workflow",
+                "Chose technology for example database, programming language",
+                "Scale database to support more than 100,000 records"
+            ]
+        },
+        {
+            "start-date": "07/2017",
+            "end-date": "07/2017",
+            "position": "Development manager",
+            "employer": "Exceed camp",
+            "employer-link": "http://exceed.cpe.ku.ac.th/wiki",
+            "private": true,
+            "responsibilities": [
+                "Developed demo website and hardware in the camp",
+                "Developed vote website, for vote favorite group",
+                "Improve vote website to support voting concurrently up to 20 users"
+            ]
+        },
+        {
+            "start-date": "06/2017",
+            "end-date": "07/2017",
+            "position": "Android developer",
+            "employer": "iTAX Inc. (Startup)",
+            "employer-link": "https://www.itax.in.th",
+            "private": true,
+            "responsibilities": [
+                "Refactored old project, and enhanced runtime",
+                "Created more that 30 unit-test, 30 integration test, and 10 UI test",
+                "Developed new feature that required by customer of company"
+            ]
+        },
+        {
+            "start-date": "03/2017",
+            "end-date": "05/2017",
+            "position": "Project leader",
+            "employer": "Database system class",
+            "employer-link": "https://github.com/Database-Systems-For-SKE",
+            "private": false,
+            "ref": "https://github.com/Database-Systems-For-SKE",
+            "responsibilities": [
+                "Designed APIs system, how frontend and backend communicated each",
+                "Designed database and query to support more than 200,000 record",
+                "Developed backend to support more than 100,000 user"
+            ]
+        },
+        {
+            "start-date": "03/2017",
+            "end-date": "05/2017",
+            "position": "Teacher Assistant of OOP Laboratory class",
+            "employer": "Kasetsart University",
+            "employer-link": "https://github.com/OOP2017",
+            "private": true,
+            "responsibilities": [
+                "Taught technical knowledge to student who cannot understand in the class",
+                "Helped professor to check homework and graded exams",
+                "Developed tool for grading score in Github education"
+            ]
+        },
+        {
+            "start-date": "10/2016",
+            "end-date": "11/2016",
+            "position": "Full-stack developer",
+            "employer": "Maxile Co., Ltd.",
+            "employer-link": "http://www.maxile.net",
+            "private": true,
+            "responsibilities": [
+                "Implemented new feature for android application",
+                "Writed test on android application for missing features",
+                "Generated crystal report template for customer company"
+            ]
+        },
+        {
+            "start-date": "08/2016",
+            "end-date": "08/2016",
+            "position": "Full-stack developer",
+            "employer": "Exceed camp",
+            "employer-link": "http://exceed.cpe.ku.ac.th/wiki",
+            "private": false,
+            "ref": "http://exceed.cpe.ku.ac.th/wiki/index.php/Exceed_13_Exponential",
+            "responsibilities": [
+                "Design web UI, and developed support mobile device",
+                "Developed APIs connect to the hardware sensor",
+                "Improved speed performance for connected services",
+                "Documented code and project concepts for future implementation"
+            ]
+        },
+        {
+            "start-date": "11/2015",
+            "end-date": "11/2015",
+            "position": "Full-stack developer",
+            "employer": "OOP Laboratory class",
+            "employer-link": "https://github.com/kamontat/OOP-FinalProject-ShoppingGUI",
+            "private": false,
+            "ref": "https://github.com/kamontat/OOP-FinalProject-ShoppingGUI",
+            "responsibilities": [
+                "Implemented payment feature",
+                "Implemented history of buyer and seller",
+                "UI designed and UX",
+                "Reformated whole project and updated algorithm",
+                "Improved speed and performance of write and read files",
+                "Documented some code and project concepts"
+            ]
+        }
+    ]
+}

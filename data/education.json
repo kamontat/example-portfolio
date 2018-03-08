@@ -1,0 +1,22 @@
+{
+    "high-school": {
+        "name": "Bangkok Christian Collage",
+        "short": "BCC",
+        "major": "Science and Mathematics Degree",
+        "start-year": 2009,
+        "end-year": 2014
+    },
+    "university": {
+        "name": "Kasetsart University",
+        "short": "KU",
+        "education": [{
+            "faculty": "Faculty of Engineering",
+            "major": "Software and Knowledge Engineering",
+            "program": "International Program",
+            "degree": "undergraduate",
+            "GPA": 2.85,
+            "start-year": 2015,
+            "end-year": 2018
+        }]
+    }
+}

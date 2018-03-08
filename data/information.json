@@ -1,0 +1,42 @@
+{
+    "image": "https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.0-9/26047093_1904228509622550_89602710098805736_n.jpg?oh=2992290105bdf8efa24146b9d8ca657b&oe=5B4C1EC9",
+    "fullname": "Kamontat Chantrachirathumrong",
+    "sex": "male",
+    "nationality": "Thai",
+    "religion": null,
+    "birthday": "08/11/1996",
+    "status": "single",
+    "contact": {
+        "tel": "085-181-1177",
+        "primary_email": "kamontat.c@hotmail.com",
+        "secondary_email": "kamontat.c@ku.th",
+        "social": {
+            "facebook_id": "kamontatc",
+            "twitter_id": "kamontatc",
+            "github_id": "kamontat",
+            "linkedin_id": "kamontat",
+            "website": null
+        },
+        "address": {
+            "line1": "8/32 Soi Phahon Yothin 34 Yaek 2",
+            "line2": null,
+            "district": "Chatuchak",
+            "province": "Bangkok",
+            "country": "Thailand",
+            "post_code": "10900"
+        }
+    },
+    "hobbies": [
+        "coding",
+        "writing novel",
+        "watching movie"
+    ],
+    "primary_position": "software developer",
+    "expected_salary": null,
+    "positions": [
+        "web developer",
+        "full-stack developer",
+        "mobile developer",
+        "backend developer"
+    ]
+}
